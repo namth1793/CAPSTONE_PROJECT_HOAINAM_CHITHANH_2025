@@ -1,0 +1,41 @@
+# Core - flexible versions
+numpy>=1.24.0
+pandas>=2.0.0
+scikit-learn>=1.3.0
+scipy>=1.10.0
+
+# CUDA & GPU packages
+torch>=2.1.0
+torchvision>=0.16.0
+torchaudio>=2.1.0
+--extra-index-url https://download.pytorch.org/whl/cu121
+onnxruntime-gpu>=1.16.0
+pycuda>=2022.2.2
+pynvml>=11.5.0
+
+# Computer Vision
+opencv-python>=4.8.0
+Pillow>=10.0.0
+
+# Face Recognition
+insightface>=0.7.3
+deepface>=0.0.79
+
+# Object Detection
+ultralytics>=8.0.0
+
+# ONNX
+onnx>=1.14.0
+
+# Web
+flask>=2.3.0
+flask-cors>=4.0.0
+requests>=2.31.0
+
+# Utilities
+matplotlib>=3.7.0
+tqdm>=4.65.0
+psutil>=5.9.0
+imageio>=2.31.0
+imageio-ffmpeg>=0.4.9
+ml-dtypes>=0.2.0
