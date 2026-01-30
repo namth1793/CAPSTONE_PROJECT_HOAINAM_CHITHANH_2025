@@ -20,7 +20,7 @@ The primary objectives of this project are:
 
 The proposed system follows a **modular and layered architecture** designed to ensure scalability, interpretability, and maintainability.
 
-<img width="862" height="751" alt="Image" src="https://github.com/user-attachments/assets/065eb0b3-0675-4e03-ae4e-283279e4b0b9" />
+<img width="1071" height="432" alt="Image" src="https://github.com/user-attachments/assets/6827822c-da59-4301-820b-84c7cddd4d20" />
 
 ### 3.1 Input Layer
 - Captures real-time classroom video streams from tracking cameras  
